@@ -1,5 +1,5 @@
 {
-  "name": "package-component-bug",
+  "name": "foo-test",
   "version": "0.1.0",
   "private": true,
   "scripts": {
