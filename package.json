@@ -1,5 +1,5 @@
 {
-  "name": "foo-test",
+  "name": "bar-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.8.1",
+    "foo-test": "file:../foo-test",
     "vue": "^3.0.4"
   },
   "devDependencies": {
